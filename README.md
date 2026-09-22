@@ -207,8 +207,9 @@ Language	Level
 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-three-delta-41.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
 </p>
+
 
 ⸻
 

@@ -181,17 +181,15 @@ Language	Level
 
 ⸻
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ekyi23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-three-delta-41.vercel.app/api?username=ekyi23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-three-delta-41.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Most Used Languages"
   />
@@ -203,6 +201,7 @@ Language	Level
     alt="GitHub Streak"
   />
 </p>
+
 ⸻
 
 📈 Most Used Languages

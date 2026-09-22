@@ -185,31 +185,30 @@ Language	Level
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ekyi23&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=ekyi23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
+    alt="GitHub Stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
     height="180"
+    alt="Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ekyi23&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ekyi23&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 ⸻
 
 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ⸻

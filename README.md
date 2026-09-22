@@ -187,12 +187,6 @@ Language	Level
     height="180"
     alt="GitHub Stats"
   />
-
-  <img
-    src="https://github-readme-stats-three-delta-41.vercel.app/api/top-langs/?username=ekyi23&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
 </p>
 
 <p align="center">
